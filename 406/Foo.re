@@ -1,0 +1,1 @@
+let bar = fn => fn();

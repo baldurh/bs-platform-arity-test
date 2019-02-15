@@ -1,0 +1,10 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx '/Users/baldur/code/bs-platform-arity-test/4019/node_modules/bs-platform/lib/reactjs_jsx_ppx_2.exe'
+FLG -ppx /Users/baldur/code/bs-platform-arity-test/4019/node_modules/bs-platform/lib/bsppx.exe
+S /Users/baldur/code/bs-platform-arity-test/4019/node_modules/bs-platform/lib/ocaml
+B /Users/baldur/code/bs-platform-arity-test/4019/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -warn-error +a -color always
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S .
+B lib/bs
+####BSB GENERATED: NO EDIT}
